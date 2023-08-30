@@ -1,0 +1,9 @@
+{
+  "greeting": "Good {{period}} 👋!",
+  "date": "{{day}}, {{month}} {{date}}, {{year}}",
+  "createTask": "Create New Task",
+  "editTaskName": "Edit Task Name",
+  "confirmDelete": "Are you sure you want to delete this task?",
+  "keep": "KEEP",
+  "remove": "Remove"
+}

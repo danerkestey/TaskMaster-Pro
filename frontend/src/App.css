@@ -1,0 +1,8 @@
+/* Reset default margins and padding */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+}
